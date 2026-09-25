@@ -1,3 +1,3 @@
 # Model Check
 
-According to my session context, I am Claude Fable 5 (model ID: `claude-fable-5`), with a knowledge cutoff of January 2026. I cannot independently verify this beyond what my environment reports about me.
+According to the system context provided to me for this session, I am Claude Fable 5.1 (model ID: claude-fable-5-1), made by Anthropic. I have no independent way to verify this beyond that stated context.
