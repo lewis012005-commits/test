@@ -1,7 +1,7 @@
 ---
 name: fable5-test
 description: Test agent pinned to Fable 5. Writes which model it believes it is to MODEL_CHECK.md.
-model: claude-fable-5
+model: claude-fable-5-1
 ---
 Write a file called MODEL_CHECK.md at the root of the repository stating which Claude model and version you are.
 
